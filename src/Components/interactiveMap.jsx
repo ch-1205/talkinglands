@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import { MapContainer, TileLayer, GeoJSON } from "react-leaflet";
-import { FaMapMarkerAlt } from "react-icons/fa"; // Import a specific icon from react-icons
-import L from "leaflet"; // Import Leaflet for marker control
-import { renderToStaticMarkup } from "react-dom/server"; // Import to convert JSX to static HTML
+import { FaMapMarkerAlt } from "react-icons/fa";
+import L from "leaflet";
+import { renderToStaticMarkup } from "react-dom/server";
 import "leaflet/dist/leaflet.css";
 
 import geoJsonData from "../mockData.json";
@@ -31,6 +31,7 @@ export default function InteractiveMap() {
       setActiveFeatureId(feature.id);
     });
 
+    // custom marker for popup
     if (feature.geometry.type === "Point") {
       const iconHtml = renderToStaticMarkup(
         <div
