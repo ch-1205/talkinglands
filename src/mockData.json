@@ -1,0 +1,281 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Talking Land": "Talking Land Headquaters"
+            },
+            "geometry": {
+                "coordinates": [
+                    77.58492443661311,
+                    12.940180401751334
+                ],
+                "type": "Point"
+            },
+            "id": 0
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Sector-2": "Talking Land Office Area"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            77.58008877911044,
+                            12.943683077969666
+                        ],
+                        [
+                            77.58008877911044,
+                            12.936708956426472
+                        ],
+                        [
+                            77.5851253959853,
+                            12.936628484655927
+                        ],
+                        [
+                            77.58520796347426,
+                            12.943736724302923
+                        ],
+                        [
+                            77.58008877911044,
+                            12.943683077969666
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": 1
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Hospital Complex": "Hospital area"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            77.58517262039072,
+                            12.93663796828885
+                        ],
+                        [
+                            77.59267433607761,
+                            12.933661817729359
+                        ],
+                        [
+                            77.59249782512063,
+                            12.946047875400168
+                        ],
+                        [
+                            77.58524322477439,
+                            12.9437427390435
+                        ],
+                        [
+                            77.58517262039072,
+                            12.93663796828885
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": 2
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Sector-3": "Hospital Area"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            77.58007849860286,
+                            12.94369608887996
+                        ],
+                        [
+                            77.57377635967686,
+                            12.943685499214453
+                        ],
+                        [
+                            77.57385241997474,
+                            12.936844481511585
+                        ],
+                        [
+                            77.58007849860286,
+                            12.936727991969022
+                        ],
+                        [
+                            77.58007849860286,
+                            12.94369608887996
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": 3
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Sector-4 ": "Jayanagar Main Area"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            77.57386915357313,
+                            12.936835434165928
+                        ],
+                        [
+                            77.57350670774429,
+                            12.923545650356985
+                        ],
+                        [
+                            77.59597448305749,
+                            12.919446460782822
+                        ],
+                        [
+                            77.60454056879252,
+                            12.925167169726421
+                        ],
+                        [
+                            77.57386915357313,
+                            12.936835434165928
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": 4
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Basavanagudi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            },
+            "geometry": {
+                "coordinates": [
+                    77.575969469509,
+                    12.941147050844322
+                ],
+                "type": "Point"
+            },
+            "id": 5
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "6th Block": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            },
+            "geometry": {
+                "coordinates": [
+                    77.57701270533914,
+                    12.930452241104788
+                ],
+                "type": "Point"
+            },
+            "id": 6
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Jayanagar 4th Block": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            },
+            "geometry": {
+                "coordinates": [
+                    77.59304762643154,
+                    12.92348530510796
+                ],
+                "type": "Point"
+            },
+            "id": 7
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Hospital Complex": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            },
+            "geometry": {
+                "coordinates": [
+                    77.59045885603717,
+                    12.93824744703403
+                ],
+                "type": "Point"
+            },
+            "id": 8
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "4th Block": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            },
+            "geometry": {
+                "coordinates": [
+                    77.581011776021,
+                    12.932372821698294
+                ],
+                "type": "Point"
+            },
+            "id": 9
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Netradhama Hospital": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            },
+            "geometry": {
+                "coordinates": [
+                    77.57884331613002,
+                    12.925419117141686
+                ],
+                "type": "Point"
+            },
+            "id": 10
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Shanti Hospital": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            },
+            "geometry": {
+                "coordinates": [
+                    77.58809792403508,
+                    12.924756774976387
+                ],
+                "type": "Point"
+            },
+            "id": 11
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Jayanagar": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            },
+            "geometry": {
+                "coordinates": [
+                    77.58878511137493,
+                    12.943205410455093
+                ],
+                "type": "Point"
+            },
+            "id": 12
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nath Road": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            },
+            "geometry": {
+                "coordinates": [
+                    77.59587563528544,
+                    12.926370323927529
+                ],
+                "type": "Point"
+            },
+            "id": 13
+        }
+    ]
+}
